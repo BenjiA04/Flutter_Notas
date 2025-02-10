@@ -1,8 +1,12 @@
 # flutter_application_notas
 
-A new Flutter project.
+Este es un generador de notas escrito en Flutter utilizando el lenguaje Dart. La aplicación permite a los usuarios crear notas rápidamente, personalizarlas y exportarlas en un formato adecuado para su uso.
 
-## Getting Started
+## Descripción
+
+El generador de notas tiene como objetivo facilitar la creación y organización de notas para estudiantes, profesionales o cualquier persona que necesite llevar un registro de sus ideas y tareas. El proyecto está construido con Flutter, lo que permite que la aplicación funcione en múltiples plataformas, incluyendo dispositivos Android e iOS.
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
