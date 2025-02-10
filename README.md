@@ -1,6 +1,9 @@
 # flutter_application_notas
 
 Este es un generador de notas escrito en Flutter utilizando el lenguaje Dart. La aplicación permite a los usuarios crear notas rápidamente, personalizarlas y exportarlas en un formato adecuado para su uso.
+![image](https://github.com/user-attachments/assets/50b16b8e-8a6f-4d87-a0db-27697dbd9019)
+![image](https://github.com/user-attachments/assets/d83dfdc8-6ce6-4906-87a5-e74e399c84ee)
+
 
 ## Descripción
 
