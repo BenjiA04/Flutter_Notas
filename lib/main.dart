@@ -82,7 +82,7 @@ class _Pantalla1State extends State<Pantalla1> {
                   icon: Icon(Icons.person_2_outlined),
                   selectedIcon: Icon(Icons.person_2),
                   label: Text(
-                    "Agregar Nota",
+                    "Perfil",
                     style: TextStyle(fontSize: 15),
                   )),
             ],
